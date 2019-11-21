@@ -14,10 +14,10 @@
 
 
 ## 演示地址
-[https://Kert-Zhang.github.io][1]
+[https://Kert-Zhang.github.io
 
 ## 参考项目源码
-[https://github.com/GitHub-Laziji/vblog][3]
+[https://github.com/GitHub-Laziji/vblog
 
 ## 项目特点
 
